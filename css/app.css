@@ -67,7 +67,7 @@ ul {
 
 .logo-container {
     display: flex;
-    align-items: center;    
+    align-items: center;
 }
 
 .logo {
@@ -746,4 +746,7 @@ ul {
     .slide {
         min-width: calc(100% - 20px);
     }
+}
+.logo {
+    height: 40px;
 }
