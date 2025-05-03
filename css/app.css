@@ -68,6 +68,8 @@ ul {
 .logo-container {
     display: flex;
     align-items: center;
+    height: 200px;
+    width: 40%;
 }
 
 .logo {
