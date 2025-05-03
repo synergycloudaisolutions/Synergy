@@ -71,7 +71,7 @@ ul {
 }
 
 .logo {
-    height: 80px;
+    height: 40px;
 }
 
 .main-nav ul {
@@ -746,7 +746,4 @@ ul {
     .slide {
         min-width: calc(100% - 20px);
     }
-}
-.logo {
-    height: 80px;
 }
